@@ -7,6 +7,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/razvanonisca/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://realitytwinz.com">RealityTwinz</a> &nbsp;·&nbsp;
   <a href="https://archaic-knowledge-next.vercel.app">Archaic Knowledge</a> &nbsp;·&nbsp;
   <a href="https://neatmedia.co/">neatmedia.co</a>
 </p>
@@ -58,11 +59,11 @@ I also bring seven years of gamification and behavioral design (Octalysis), whic
       <sub>TypeScript · Spark · Three.js · Mediabunny · Vitest</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/digitaltwinz.jpg" alt="Aerial Gaussian-splat scan of grassy burial mounds with a white wireframe grid draped over part of the terrain." width="100%">
+      <a href="https://realitytwinz.com"><img src="assets/realitytwinz.jpg" alt="Aerial Gaussian-splat scan of grassy burial mounds with a white wireframe grid draped over part of the terrain." width="100%"></a>
       <br>
-      <b>DigitalTwinz</b> &nbsp;<sub>In development</sub>
+      <b>RealityTwinz</b> &nbsp;<sub>Live · <a href="https://realitytwinz.com">visit ↗</a></sub>
       <br>
-      A marketplace for splat scans of real places, for game, VR and heritage teams, plus a drone "Ride" with physics through each scan.
+      Heritage 3D scanning and reconstruction: LiDAR, Gaussian splats and rebuilds for Blender, Unity and Unreal, plus a drone "Ride" with physics through each scan.
       <br>
       <sub>TanStack Start · React 19 · PlayCanvas · Rapier · Supabase · Cloudflare R2</sub>
     </td>
@@ -99,8 +100,8 @@ I also bring seven years of gamification and behavioral design (Octalysis), whic
 - **Merge Splats** (Python): aligns and merges two LiDAR + splat scans of the same place (FFT coarse fit, ICP, elastic warp) and scores the result with its own renderer.
 - **Procedural twin** (Python, Blender, Three.js): turns a splat capture into a 6.6 MB relightable scene that runs at about 220 fps.
 - **Reel pipeline** (Python, FFmpeg): from an edit list to a finished reel with captions, voice, mix and titles.
-- **Nunti** (Next.js): animated wedding invitations with RSVP, about 2.4 KB of own code per invitation.
+- **[Nunti](https://nunti.vercel.app)** (Next.js): animated wedding invitations with RSVP, about 2.4 KB of own code per invitation.
 
 ### Working together
 
-I build photorealistic digital twins for museums, heritage sites and travel teams, and the products around them. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/razvanonisca/).
+I build photorealistic digital twins for museums, heritage sites and travel teams, and the products around them, through [RealityTwinz](https://realitytwinz.com). The best way to reach me is [LinkedIn](https://www.linkedin.com/in/razvanonisca/).
